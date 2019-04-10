@@ -1,0 +1,164 @@
+body {
+            
+    font-family: fantasy;
+   
+   width:100%;
+    margin: 5px;
+  
+    background-color: rgb(191, 248, 255) 
+
+}
+
+.header {
+   
+    float:left;
+    width: 100%;
+    
+    background-image: url(/home/codex/projects/basic_website/b0e37018c4018a38b2ad35bc0e589ca4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+.me{
+    
+    width:280px;
+    top: 10mm;
+    display: block;
+}
+
+.h2{
+   float:left;
+   width:50%;
+    font-size: 50px;
+
+}
+.paris{
+    height:150px;
+    width: 150px;
+    float:left;
+    margin-right: 10px;
+}
+.p1{
+    float: left;
+ 
+}
+.Cities{
+    overflow: auto;
+    font-size: 30px;
+    width:30%;
+   
+}
+.Languages{
+   float: left;
+   font-size: 30px;
+   width: 100%;
+}
+.p3{
+   
+    font-size: 30px;
+    float:left;
+    width:75%;
+
+    
+
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+.history{
+float: left;
+font-size: 30px;
+}
+
+.parisdiv{
+    float:left;
+    width: 75%;
+    overflow: auto; 
+}
+
+.table{
+    float: left;
+    overflow: auto;
+    width: 50%;
+}
+.p2{
+    float: left;
+    overflow: auto;
+}
+.historic{
+    float: left;
+    width:100%;
+    overflow:auto;
+}
+.bo-kaap{
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+    overflow: auto;
+}
+.greenmarket{
+    float: right;
+    margin-right: 15px;
+    width:420px;
+    margin-left: 20px;
+}
+.p4{
+    float: left;
+    overflow: auto;
+    font-size: 15px;
+
+
+}
+.goodhope{
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+.p5{
+    float: left;
+    overflow: auto;
+    font-size: 20px;
+}
+
+.h1{
+
+    font-size:60px;
+}
+.side-bar{
+    float: right;
+    width: 20%;
+    background-color: darkgoldenrod;
+    padding:5px;
+    margin: 0px;
+    overflow: auto;
+}
+.list1{
+    float: left;
+}
+
+ul{
+    padding:0px;
+}
+.castle{
+    font-size: 15px;
+}
+.market{
+    font-size: 15px;
+}
+
+h5{
+    font-size: 20px;
+}
+
